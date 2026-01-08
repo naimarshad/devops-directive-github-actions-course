@@ -57,13 +57,3 @@ git clone --recurse-submodules git@github.com:sidpalas/devops-directive-github-a
 >   }
 > }
 > ```
->
-
-A modification
-
-```
-# include markdown files
-- "03-core-features/filters/*.md"
-# Exclude txt files
-- "!03-core-features/filters/*.txt"
-```
